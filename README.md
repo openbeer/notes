@@ -1,4 +1,2 @@
-notes
-=====
+# Open Beer (beer.db) Notes
 
-Open Beer (beer.db) Notes
