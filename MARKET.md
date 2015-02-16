@@ -63,7 +63,7 @@ Krombacher, Bitburger, Warsteiner, Beck's
 
 1. Guinness  - more than 50% market share
 
-Harp (Lager)
+Harp  - most popular lager beer
 
 ### Belgium
 
@@ -71,18 +71,41 @@ Harp (Lager)
 
 Stella Artois  - 8% market share
  
-## Czech Republic
+### Czech Republic
 
 1. Gambrinus
 2. Pilsner Urquell
 
 
+## Asia
+
+### Japan
+
+1. Asahi Super Dry
+2. Kirin
+3. Sapporo
+4. Suntory
+
+### China
+
+1. Snow
+2. Tsingtao
+3. Zhujiang 
+4. Yanjing
 
 
+## Pacific
+
+### Australia
+
+1. Victoria Bitter (VB)
+
+- Toohey's   -- most popular in New South Wales
+- XXXX       -- most popular in Queensland
 
 
+## Sources
 
-
-
-
+- [Beer in Different Nations](http://www.schiesshouse.com/overview_of_beer.htm)
+- [Stackexchange]()
 
