@@ -4,34 +4,43 @@
 
 ### United States
 
-1. Bud Light  - 16% market share; bestselling since 2001
+1. Bud Light  - bestselling since 2001
 2. Budweiser
 3. Miller Lite
 4. Coors Light
-5. Corona Extra (Import from Mexico)
+
+Bud Light - bestselling beer in the world 
+
+Imports:
+1.  Corona Extra (from Mexico)
+2.  Heineken (from the Netherlands)
 
 ### Canada
 
 1. Labatt Blue
-2. Coors Light (Import from US)
-3. Molson Canadian
-4. Budweiser (Import from US)
+2. Molson Canadian
+
+Imports:
+1. Coors Light (from US)
+2. Budweiser (from US)
 
 ### Mexico
 
 1. Corona
 2. Tecate
 3. Dos XX (Dos Equis)
-4. Tecate Light
 
-Note: Corona most widely distributed beer in the world - more than 150 countries
+Tecate Light - bestselling light beer
+
+Note: Corona bestselling beer in the world (distributed in more than 150 countries)
+
 
 
 ## South America
 
 ### Brazil
 
-1. Skol
+1. Skol   - almost a third of the market
 2. Brahma - 20% market share
 3. Antarctica - 14% market share
 
@@ -40,7 +49,13 @@ Note: Corona most widely distributed beer in the world - more than 150 countries
 
 ### Germany
 
-Krombacher, Bitburger, Warsteiner, Beck's
+1. Krombacher
+2. Bitburger
+3. Warsteiner
+4. Beck's
+
+Beck's is the most exported German beer
+
 
 ### Austria
 
@@ -52,30 +67,37 @@ Krombacher, Bitburger, Warsteiner, Beck's
 2. Amstel
 3. Grolsch
 
-### United Kingdom
+### England
 
-1. Carling
-2. Foster's  (Import from Australia)
-3. Stella Artois (Import from Belgium)
-4. Carlsberg (Import from Denmark)
+1. Carling (Carling Black Label)
+
+Imports:
+1. Foster's  (from Australia)
+2. Stella Artois (from Belgium)
+3. Carlsberg (from Denmark)
 
 ### Ireland
 
 1. Guinness  - more than 50% market share
 
-Harp  - most popular lager beer
+Harp  - bestselling lager beer
+
+Note: Guiness bestselling beer in the world (brewed in almost 50 countries)
 
 ### Belgium
 
 1. Jupiler - 40% market share
 
 Stella Artois  - 8% market share
+
+Note: Stella Artois most exported Belgian beer (bestselling worldwide)
  
 ### Czech Republic
 
 1. Gambrinus
 2. Pilsner Urquell
 
+Note: Pilsner Urquell most famous (and bestselling ??) Czech brand/beer in the world
 
 ## Asia
 
@@ -88,24 +110,25 @@ Stella Artois  - 8% market share
 
 ### China
 
-1. Snow
-2. Tsingtao
-3. Zhujiang 
-4. Yanjing
+1. Tsingtao
+2. Zhujiang 
+3. Yanjing
 
 
 ## Pacific
 
 ### Australia
 
-1. Victoria Bitter (VB)
+1. Victoria Bitter (VB)   -- ??
 
+- Victoria Bitter (VB)  -- most popular in Victora
 - Toohey's   -- most popular in New South Wales
 - XXXX       -- most popular in Queensland
 
 
 ## Sources
 
-- [Beer in Different Nations](http://www.schiesshouse.com/overview_of_beer.htm)
-- [Stackexchange]()
+- [BootsnAll Article - Best Selling Beers Around the World](http://www.bootsnall.com/articles/08-08/best-selling-beers-around-the-world.html)
+- [Beer StackExchange - Most Popular Beer by Country](http://beer.stackexchange.com/questions/2168/most-popular-beer-by-country)
+
 
