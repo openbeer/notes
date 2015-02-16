@@ -12,6 +12,7 @@
 Bud Light - bestselling beer in the world 
 
 Imports:
+
 1.  Corona Extra (from Mexico)
 2.  Heineken (from the Netherlands)
 
@@ -21,6 +22,7 @@ Imports:
 2. Molson Canadian
 
 Imports:
+
 1. Coors Light (from US)
 2. Budweiser (from US)
 
@@ -72,6 +74,7 @@ Beck's is the most exported German beer
 1. Carling (Carling Black Label)
 
 Imports:
+
 1. Foster's  (from Australia)
 2. Stella Artois (from Belgium)
 3. Carlsberg (from Denmark)
@@ -125,6 +128,7 @@ Note: Pilsner Urquell most famous (and bestselling ??) Czech brand/beer in the w
 - Toohey's   -- most popular in New South Wales
 - XXXX       -- most popular in Queensland
 
+Foster's Lager is Australia's bestselling (and best known) beer in the world
 
 ## Sources
 
